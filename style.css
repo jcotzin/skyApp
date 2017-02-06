@@ -1,0 +1,12 @@
+html {
+  font-family: "Avenir Next", Helvetica, sans-serif;
+  text-align: center;
+}
+
+body {
+  margin: o auto;
+}
+
+h1, h2 {
+  font-weight: 300;
+}
